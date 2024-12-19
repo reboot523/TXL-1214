@@ -29,3 +29,6 @@ TXL-1214/                   # 项目根目录
 └── deploy_docs/            # 部署文档
     ├── baota_deploy.md     # 宝塔面板部署文档
     └── docker_deploy.md    # Docker 部署指南
+
+
+![image](https://github.com/user-attachments/assets/7e55cd8b-0636-45f6-a3cc-e8ac9227b57f)
